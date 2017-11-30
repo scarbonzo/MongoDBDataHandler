@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Richard Eodice")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("2017")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Abstraction layer to write/read objects with MongoDB")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.0")]

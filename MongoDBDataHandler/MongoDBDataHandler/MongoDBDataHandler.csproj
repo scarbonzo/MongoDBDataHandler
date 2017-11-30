@@ -8,6 +8,7 @@
     <Company />
     <Copyright>2017</Copyright>
     <PackageTags>MongoDB, .Net Core 2.0, C#</PackageTags>
+    <Description>Abstraction layer to write/read objects with MongoDB</Description>
   </PropertyGroup>
 
   <ItemGroup>
