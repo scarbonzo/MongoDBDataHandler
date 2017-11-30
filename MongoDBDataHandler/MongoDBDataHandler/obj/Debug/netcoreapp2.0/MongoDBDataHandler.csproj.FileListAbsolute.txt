@@ -1,0 +1,9 @@
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler\bin\Debug\netcoreapp2.0\MongoDBDataHandler.deps.json
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler\bin\Debug\netcoreapp2.0\MongoDBDataHandler.dll
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler\obj\Debug\netcoreapp2.0\MongoDBDataHandler.csprojResolveAssemblyReference.cache
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler\obj\Debug\netcoreapp2.0\MongoDBDataHandler.csproj.CoreCompileInputs.cache
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler\obj\Debug\netcoreapp2.0\MongoDBDataHandler.AssemblyInfoInputs.cache
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler\obj\Debug\netcoreapp2.0\MongoDBDataHandler.AssemblyInfo.cs
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler\bin\Debug\netcoreapp2.0\MongoDBDataHandler.pdb
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler\obj\Debug\netcoreapp2.0\MongoDBDataHandler.dll
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler\obj\Debug\netcoreapp2.0\MongoDBDataHandler.pdb
