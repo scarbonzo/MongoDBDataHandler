@@ -20,7 +20,7 @@ namespace MongoDBDataHandler
         { }
 
         /// <summary>
-        /// Connect to MongoDB during the constructor
+        /// Connect to a MongoDB database during the constructor
         /// </summary>
         /// <param name="Server">Required: The MongoDB hostname or IP</param>
         /// <param name="Database">Required: The Database that houses the collections</param>
@@ -65,7 +65,7 @@ namespace MongoDBDataHandler
         }
 
         /// <summary>
-        /// Connect to MongoDB outside of the constructor
+        /// Connect to a MongoDB database outside of the constructor
         /// </summary>
         /// <param name="Server">Required: The MongoDB hostname or IP</param>
         /// <param name="Database">Required: The Database that houses the collections</param>
