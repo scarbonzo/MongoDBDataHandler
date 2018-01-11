@@ -185,5 +185,33 @@ namespace MongoDBDataHandler
             catch { return false; }
 
         }
+
+        // This function updates an Object in a collection
+        public bool UpdateObject(string Collection, string Id, object o)
+        {
+            try
+            {
+                if (client != null)
+                {
+                    var oid = new ObjectId(Id);
+                    var doc = o.ToBsonDocument();
+                    doc.Set("_id", oid);
+
+                    IMongoCollection<BsonDocument> collection =
+                        client
+                        .GetDatabase(Database)
+                        .GetCollection<BsonDocument>(Collection);
+
+
+                    collection.FindOneAndReplace(Builders<BsonDocument>.Filter.Eq("_id", oid), doc);
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            catch (Exception e) { return false; }
+        }
     }
 }

@@ -12,5 +12,11 @@ namespace MongoDBDataHandler.Test
         public string Mobile { get; set; }
         public string Email { get; set; }
         public bool Active { get; set; }
+
+
+        public override string ToString()
+        {
+            return Name + " - " + Mobile + " - " + Email;
+        }
     }
 }
