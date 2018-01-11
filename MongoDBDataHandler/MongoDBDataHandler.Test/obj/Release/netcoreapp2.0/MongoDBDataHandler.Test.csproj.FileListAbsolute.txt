@@ -1,0 +1,13 @@
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\bin\Release\netcoreapp2.0\MongoDBDataHandler.Test.deps.json
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\bin\Release\netcoreapp2.0\MongoDBDataHandler.Test.runtimeconfig.json
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\bin\Release\netcoreapp2.0\MongoDBDataHandler.Test.runtimeconfig.dev.json
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\bin\Release\netcoreapp2.0\MongoDBDataHandler.Test.dll
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\bin\Release\netcoreapp2.0\MongoDBDataHandler.Test.pdb
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\bin\Release\netcoreapp2.0\MongoDBDataHandler.dll
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\bin\Release\netcoreapp2.0\MongoDBDataHandler.pdb
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\obj\Release\netcoreapp2.0\MongoDBDataHandler.Test.csprojResolveAssemblyReference.cache
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\obj\Release\netcoreapp2.0\MongoDBDataHandler.Test.csproj.CoreCompileInputs.cache
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\obj\Release\netcoreapp2.0\MongoDBDataHandler.Test.AssemblyInfoInputs.cache
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\obj\Release\netcoreapp2.0\MongoDBDataHandler.Test.AssemblyInfo.cs
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\obj\Release\netcoreapp2.0\MongoDBDataHandler.Test.dll
+C:\VS\MongoDBDataHandler\MongoDBDataHandler\MongoDBDataHandler.Test\obj\Release\netcoreapp2.0\MongoDBDataHandler.Test.pdb
