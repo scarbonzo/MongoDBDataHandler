@@ -16,11 +16,14 @@ namespace MongoDBDataHandler.Test
                 Active = true
             };
 
-            Console.WriteLine(db.WriteObject("recipients", r).ToString());
+            string id = db.WriteObject("recipients", r).ToString();
 
-            foreach(Recipient recipient in db.GetObjects<Recipient>("recipients"))
+            Console.WriteLine(id);
+
+            foreach (Recipient recipient in db.GetObjects<Recipient>("recipients"))
             {
                 Console.WriteLine(recipient.Name + " - " + recipient.Mobile + " - " + recipient.Email);
+                db.DeleteObject("recipients", recipient.Id.ToString());
             }
         }
     }

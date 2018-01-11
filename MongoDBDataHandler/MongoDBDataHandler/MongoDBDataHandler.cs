@@ -159,5 +159,31 @@ namespace MongoDBDataHandler
             }
             catch { return null; }
         }
+
+        // This function deletes an Object in a collection by its ObjectId (passed as a string)
+        public bool DeleteObject(string Collection, string Id)
+        {
+            try
+            {
+                if (client != null)
+                {
+                    var oid = new ObjectId(Id);
+
+                    IMongoCollection<BsonDocument> collection =
+                        client
+                        .GetDatabase(Database)
+                        .GetCollection<BsonDocument>(Collection);
+
+                    collection.DeleteOne(Builders<BsonDocument>.Filter.Eq("_id", oid));
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            catch { return false; }
+
+        }
     }
 }
